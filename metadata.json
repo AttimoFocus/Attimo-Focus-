@@ -1,0 +1,6 @@
+{
+  "name": "Attimo Focus",
+  "description": "自動予約システムを伴走構築するカメラマン 草賀 大輝のポートフォリオサイト",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
