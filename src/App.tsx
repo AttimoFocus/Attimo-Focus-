@@ -115,7 +115,7 @@ export default function App() {
             transition={{ duration: 4.5, times: [0, 0.15, 0.8, 1], delay: 0.4 }}
           >
             <h1 className="font-serif text-[24px] sm:text-3xl md:text-4xl lg:text-[46px] font-normal leading-[1.8] md:leading-[1.7] text-white mb-10 md:mb-12 tracking-[0.12em] md:tracking-[0.15em] drop-shadow-2xl">
-              <span className="inline-block">業務自動化と</span><span className="inline-block">SNS集客を</span><br />
+              <span className="inline-block">手作業ゼロの</span><span className="inline-block">自動化システムを</span><br />
               <span className="inline-block">二人三脚で構築する</span><br />
               <span className="inline-block">専門パートナー</span>
             </h1>
